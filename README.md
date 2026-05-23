@@ -16,7 +16,7 @@ and continuously improving my engineering mindset.
   **Library Room Booking System** for Politeknik Negeri Jakarta
 
 - 🌱 Currently learning:
-  **System Design**, **Go (Golang)**, and **Data Science Fundamentals**
+  **System Design**, **JavaScripts**, **CI/CD**, **Go (Golang)**, and **AI/Machine Learning Fundamentals (In Progress)**
 
 - 🤝 Open to collaborate on:
   Backend projects, APIs, system architecture discussions, and real-world applications
