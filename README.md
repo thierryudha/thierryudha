@@ -1,15 +1,126 @@
-# 💫 About Me:
-# Hi there 👋<br><br>I'm a Fullstack Developer in progress who is currently exploring Backend Engineering and Data Science.<br>I believe in continuous learning and building real-world systems to improve my engineering mindset.<br><br>---<br><br>## 🚀 About Me<br><br>🔭 I’m currently working on<br>A **Library Room Booking System** for Politeknik Negeri Jakarta, focusing on backend development and system reliability.<br><br>🤝 I’m looking to collaborate on<br>Backend projects, system design discussions, or anything related to real-world application development.<br><br>🧠 I’m looking for help with<br>System Design, scalability, and transitioning into Data Science.<br><br>🌱 I’m currently learning<br>System Design, Go (Golang), and fundamentals of Data Science.<br><br>💬 Ask me about<br>Backend basics, PHP development, and building simple web systems.<br><br>⚡ Fun fact<br>I started programming seriously in college and I'm constantly trying to catch up — and I enjoy that process.<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Languages**<br>PHP, JavaScript (learning Go)<br><br>**Databases**<br>MySQL, PostgreSQL, MongoDB<br><br>**Tools & Others**<br>Git, Postman<br><br>---<br><br>## 📌 Featured Project<br><br>### 📚 Library Room Booking System<br><br>A web-based system built for managing room reservations in a campus library.<br><br>**My Role:** Backend Developer<br>**What I worked on:**<br><br>* Designing booking logic and validation<br>* Handling user access and session management<br>* Preventing booking conflicts (race condition awareness)<br>* Structuring database interactions<br><br>This project is intended for real-world usage, not just a college assignment.<br><br>---<br><br>## 📈 Current Focus<br><br>* Understanding **System Design** (scalability, reliability, architecture)<br>* Learning **Go** for backend development<br>* Exploring **Data Science fundamentals**<br><br>---<br><br>## 🎯 Mindset<br><br>I'm still early in my journey, but I focus on:<br><br>* Building real projects instead of just tutorials<br>* Understanding how systems actually work (not just coding)<br>* Continuously improving step by step<br><br>---<br><br>## 📫 Let's Connect<br><br>Feel free to connect or collaborate 🚀<br>
+<h1 align="center">Hi 👋, I'm Thierry</h1>
+<h3 align="center">
+Backend Engineer in Progress • Fullstack Developer • Data Science Explorer
+</h3>
 
+<p align="center">
+I enjoy building real-world systems, learning how scalable architectures work,
+and continuously improving my engineering mindset.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thierryud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thierryyudhadiantha2476) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thierryud2476@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thierryudha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thierryudha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thierryudha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Currently building:
+  **Library Room Booking System** for Politeknik Negeri Jakarta
+
+- 🌱 Currently learning:
+  **System Design**, **Go (Golang)**, and **Data Science Fundamentals**
+
+- 🤝 Open to collaborate on:
+  Backend projects, APIs, system architecture discussions, and real-world applications
+
+- 🧠 Interested in:
+  Scalability, reliability, backend engineering, and data-driven systems
+
+- ⚡ Fun fact:
+  I started programming seriously in college and became obsessed with understanding how systems actually work behind the scenes.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📌 Featured Project
+
+### 📚 Library Room Booking System
+
+A real-world web-based system designed for managing room reservations in a campus library environment.
+
+### My Responsibilities
+- Designing booking workflows and validation logic
+- Handling authentication and session management
+- Preventing booking conflicts and race conditions
+- Structuring efficient database interactions
+- Building backend APIs for system integration
+
+> This project is intended for actual operational use, not only for academic purposes.
+
+---
+
+## 📈 Current Focus
+
+Currently improving my understanding of:
+
+- Distributed systems concepts
+- Scalability & reliability
+- Backend architecture
+- API engineering
+- Data Science fundamentals
+- Golang for backend services
+
+---
+
+## 🎯 Engineering Mindset
+
+I believe in:
+- Building projects instead of endlessly watching tutorials
+- Understanding systems deeply, not just making things work
+- Learning step by step with consistency
+- Writing maintainable and scalable code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thierryudha&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thierryudha&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierryudha&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/thierryud" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/thierryyudhadiantha2476" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:thierryud2476@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
