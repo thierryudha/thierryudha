@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thierry</h1>
 <h3 align="center">
-Backend Engineer in Progress • Fullstack Developer • Data Science Explorer
+Fullstack Developer & AI Engineer in Progress
 </h3>
 
 <p align="center">
-I enjoy building real-world systems, learning how scalable architectures work,
+I am currently a 5ᵗʰ Semester Computer Science Student at Politeknik Negeri Jakarta. I enjoy building real-world systems, learning how scalable architectures work,
 and continuously improving my engineering mindset.
 </p>
 
