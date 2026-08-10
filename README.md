@@ -43,12 +43,24 @@ and continuously improving my engineering mindset.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠️ Tools & DevOps
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Nginx" />
+  <img src="https://shields.io" alt="Apache" />
+  <img src="https://shields.io" alt="Postman" />
+</p>
+
+### 🤖 AI Agents & Open Source
+<p align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="OpenCode" />
+  </a>
+  <a href="https://antigravity.google" target="_blank">
+    <img src="https://shields.io" alt="Antigravity" />
+  </a>
+</p>
 
 ---
 
