@@ -98,16 +98,8 @@ I believe in:
 
 ---
 
----
-
-## ⌛ Development Time
-
-[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=thierryudha)](https://wakatime.com/@alan)
-
----
-
 ## 📝 Top Language
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thierryudha)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thierryudha&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 ## 🌐 Connect With Me
