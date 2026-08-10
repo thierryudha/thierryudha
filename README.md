@@ -97,7 +97,16 @@ I believe in:
 [![Thierryudha's GitHub stats](https://github-stats-extended.vercel.app/api?username=thierryudha)](https://github.com/stats-organization/github-stats-extended)
 
 ---
-## 📊 Top Language
+
+---
+
+## ⌛ Development Time
+
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=thierryudha)](https://wakatime.com/@alan)
+
+---
+
+## 📝 Top Language
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thierryudha)](https://github.com/stats-organization/github-stats-extended)
 
 ---
