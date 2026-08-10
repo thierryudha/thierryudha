@@ -51,8 +51,7 @@ and continuously improving my engineering mindset.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🤖 AI Assistants & Automations
-[![OpenCode](https://shields.io)](https://github.com/anomalyco/opencode)
-[![Antigravity](https://shields.io)](https://antigravity.google)
+![OpenCode](https://img.shields.io/badge/opencode-%23000000?style=for-the-badge&logo=opencode&logoColor=ffffff)
 
 ---
 
