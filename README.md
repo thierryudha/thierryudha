@@ -94,17 +94,7 @@ I believe in:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thierryudha&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thierryudha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierryudha&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+[![Thierryudha's GitHub stats](https://github-stats-extended.vercel.app/api?username=thierryudha)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
