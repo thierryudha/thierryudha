@@ -13,7 +13,7 @@ and continuously improving my engineering mindset.
 ## 🚀 About Me
 
 - 🔭 Currently building:
-  **Library Room Booking Management System** for Politeknik Negeri Jakarta
+  **Library Space Reservation Platform | Airbnb-inspired System** for Politeknik Negeri Jakarta
 
 - 🌱 Currently learning:
   **System Design**, **JavaScripts**, **CI/CD**, **Go (Golang)**, and **AI/Machine Learning Fundamentals (In Progress)**
