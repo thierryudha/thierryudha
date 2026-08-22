@@ -97,14 +97,15 @@ I believe in:
 
 ## 📊 GitHub Stats
 
-[![Thierryudha's GitHub stats](https://github-stats-extended.vercel.app/api?username=thierryudha)](https://github.com/stats-organization/github-stats-extended)
+<p align="left">
+<a href="https://github.com/thierryudha">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=thierryudha&hide=stars&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thierryudha&theme=tokyonight&hide=blade&layout=donut"/>
+</a>
+</p>
 
 ---
 
-## 📝 Top Language
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=thierryudha&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
-
----
 ## 🌐 Connect With Me
 
 <p align="left">
