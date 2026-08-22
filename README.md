@@ -12,8 +12,8 @@ and continuously improving my engineering mindset.
 
 ## 🚀 About Me
 
-- 🔭 Currently building:
-  **Library Space Reservation Platform | Airbnb-inspired System** for Politeknik Negeri Jakarta
+- 🔭 Currently Building:
+  Re-Engineering **Library Space Reservation Platform | Airbnb-inspired System** for Politeknik Negeri Jakarta
 
 - 🌱 Currently learning:
   **System Design**, **JavaScripts**, **CI/CD**, **Go (Golang)**, and **AI/Machine Learning Fundamentals (In Progress)**
@@ -23,9 +23,6 @@ and continuously improving my engineering mindset.
 
 - 🧠 Interested in:
   Scalability, reliability, backend engineering, and data-driven systems
-
-- ⚡ Fun fact:
-  I started programming seriously in college and became obsessed with understanding how systems actually work behind the scenes.
 
 ---
 
@@ -37,27 +34,33 @@ and continuously improving my engineering mindset.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Frontend
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
 ### Backend & Database
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-### 🛠️ Tools & DevOps
+### 🛠️ Tools, DevOps, & Hosting
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🤖 AI Assistants & Automations
 ![OpenCode](https://img.shields.io/badge/opencode-%23000000?style=for-the-badge&logo=opencode&logoColor=ffffff)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
 ## 📌 Featured Project
 
-### 📚 Library Room Booking System
+### 📚 Library Space Reservation Platform for Jakarta State Polytechnic
 
 A real-world web-based system designed for managing room reservations in a campus library environment.
 
